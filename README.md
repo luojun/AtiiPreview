@@ -27,9 +27,10 @@ The size of the APK is close to 7MB, due to the inclusion of demo books as asset
 Installation
 ------------
 
-You can just download the APK to your device and install it from there.
+You can just download [the Atii v0.7 APK][5] to your device and install it from there.
 
 [1]: http://wwww.dreamcorps.org
 [2]: http://www.neehao.co.uk/2012/10/interview-with-dream-corps-founder-jun-luo/
 [3]: http://socialinnovation.ca/community/organizations/dragonfly-studios
 [4]: https://github.com/JakeWharton/ActionBarSherlock
+[5]: https://github.com/luojun/AtiiPreview/blob/master/Atii.apk
